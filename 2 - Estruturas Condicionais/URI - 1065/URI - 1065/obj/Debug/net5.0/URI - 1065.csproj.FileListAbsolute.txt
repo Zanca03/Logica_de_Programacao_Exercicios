@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\bin\Debug\net5.0\URI - 1065.exe
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\bin\Debug\net5.0\URI - 1065.deps.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\bin\Debug\net5.0\URI - 1065.runtimeconfig.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\bin\Debug\net5.0\URI - 1065.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\bin\Debug\net5.0\URI - 1065.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\bin\Debug\net5.0\ref\URI - 1065.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\bin\Debug\net5.0\URI - 1065.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\obj\Debug\net5.0\URI - 1065.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\obj\Debug\net5.0\URI - 1065.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\obj\Debug\net5.0\URI - 1065.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\obj\Debug\net5.0\URI - 1065.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\obj\Debug\net5.0\URI - 1065.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\obj\Debug\net5.0\URI - 1065.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\obj\Debug\net5.0\ref\URI - 1065.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\obj\Debug\net5.0\URI - 1065.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\2 - Estruturas Condicionais\URI - 1065\URI - 1065\obj\Debug\net5.0\URI - 1065.genruntimeconfig.cache

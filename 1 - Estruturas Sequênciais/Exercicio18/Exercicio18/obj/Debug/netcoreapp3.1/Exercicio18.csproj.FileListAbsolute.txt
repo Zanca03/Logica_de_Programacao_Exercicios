@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\bin\Debug\netcoreapp3.1\Exercicio18.exe
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\bin\Debug\netcoreapp3.1\Exercicio18.deps.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\bin\Debug\netcoreapp3.1\Exercicio18.runtimeconfig.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\bin\Debug\netcoreapp3.1\Exercicio18.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\bin\Debug\netcoreapp3.1\Exercicio18.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\bin\Debug\netcoreapp3.1\Exercicio18.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\obj\Debug\netcoreapp3.1\Exercicio18.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\obj\Debug\netcoreapp3.1\Exercicio18.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\obj\Debug\netcoreapp3.1\Exercicio18.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\obj\Debug\netcoreapp3.1\Exercicio18.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\obj\Debug\netcoreapp3.1\Exercicio18.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\obj\Debug\netcoreapp3.1\Exercicio18.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio18\Exercicio18\obj\Debug\netcoreapp3.1\Exercicio18.genruntimeconfig.cache

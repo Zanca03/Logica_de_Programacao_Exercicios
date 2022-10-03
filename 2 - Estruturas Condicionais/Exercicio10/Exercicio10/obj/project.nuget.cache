@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5bTodymxtK1wUMY1uqyFOFMRRF5ktSYMwz5Z/466eudEbVTeHvcbzxw67adFhMgdj8qw9REZJHDg4Fi3ufBmUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Curso C#\\Exercícios Scripts\\Lógica e Algoritmo\\2 - Estruturas Condicionais\\Exercicio10\\Exercicio10\\Exercicio10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

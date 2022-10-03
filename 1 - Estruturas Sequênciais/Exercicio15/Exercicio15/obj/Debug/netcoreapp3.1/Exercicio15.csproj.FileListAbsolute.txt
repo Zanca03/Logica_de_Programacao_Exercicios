@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.exe
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.deps.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.runtimeconfig.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\Estruturas Sequênciais\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.genruntimeconfig.cache

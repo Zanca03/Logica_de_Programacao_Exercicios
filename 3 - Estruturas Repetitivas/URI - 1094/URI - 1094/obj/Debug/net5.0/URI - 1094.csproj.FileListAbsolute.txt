@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\bin\Debug\net5.0\URI - 1094.exe
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\bin\Debug\net5.0\URI - 1094.deps.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\bin\Debug\net5.0\URI - 1094.runtimeconfig.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\bin\Debug\net5.0\URI - 1094.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\bin\Debug\net5.0\URI - 1094.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\bin\Debug\net5.0\ref\URI - 1094.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\bin\Debug\net5.0\URI - 1094.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\obj\Debug\net5.0\URI - 1094.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\obj\Debug\net5.0\URI - 1094.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\obj\Debug\net5.0\URI - 1094.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\obj\Debug\net5.0\URI - 1094.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\obj\Debug\net5.0\URI - 1094.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\obj\Debug\net5.0\URI - 1094.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\obj\Debug\net5.0\ref\URI - 1094.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\obj\Debug\net5.0\URI - 1094.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1094\URI - 1094\obj\Debug\net5.0\URI - 1094.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\bin\Debug\net5.0\Vetor 8.exe
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\bin\Debug\net5.0\Vetor 8.deps.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\bin\Debug\net5.0\Vetor 8.runtimeconfig.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\bin\Debug\net5.0\Vetor 8.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\bin\Debug\net5.0\Vetor 8.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\bin\Debug\net5.0\ref\Vetor 8.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\bin\Debug\net5.0\Vetor 8.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\obj\Debug\net5.0\Vetor 8.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\obj\Debug\net5.0\Vetor 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\obj\Debug\net5.0\Vetor 8.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\obj\Debug\net5.0\Vetor 8.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\obj\Debug\net5.0\Vetor 8.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\obj\Debug\net5.0\Vetor 8.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\obj\Debug\net5.0\ref\Vetor 8.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\obj\Debug\net5.0\Vetor 8.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 8\Vetor 8\obj\Debug\net5.0\Vetor 8.genruntimeconfig.cache

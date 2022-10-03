@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\bin\Debug\net5.0\URI - 1132.exe
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\bin\Debug\net5.0\URI - 1132.deps.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\bin\Debug\net5.0\URI - 1132.runtimeconfig.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\bin\Debug\net5.0\URI - 1132.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\bin\Debug\net5.0\URI - 1132.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\bin\Debug\net5.0\ref\URI - 1132.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\bin\Debug\net5.0\URI - 1132.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\obj\Debug\net5.0\URI - 1132.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\obj\Debug\net5.0\URI - 1132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\obj\Debug\net5.0\URI - 1132.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\obj\Debug\net5.0\URI - 1132.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\obj\Debug\net5.0\URI - 1132.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\obj\Debug\net5.0\URI - 1132.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\obj\Debug\net5.0\ref\URI - 1132.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\obj\Debug\net5.0\URI - 1132.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\3 - Estruturas Repetitivas\URI - 1132\URI - 1132\obj\Debug\net5.0\URI - 1132.genruntimeconfig.cache

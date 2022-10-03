@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\bin\Debug\net5.0\Matriz 3.exe
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\bin\Debug\net5.0\Matriz 3.deps.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\bin\Debug\net5.0\Matriz 3.runtimeconfig.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\bin\Debug\net5.0\Matriz 3.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\bin\Debug\net5.0\Matriz 3.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\bin\Debug\net5.0\ref\Matriz 3.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\bin\Debug\net5.0\Matriz 3.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\obj\Debug\net5.0\Matriz 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\obj\Debug\net5.0\Matriz 3.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\obj\Debug\net5.0\Matriz 3.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\obj\Debug\net5.0\Matriz 3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\obj\Debug\net5.0\Matriz 3.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\obj\Debug\net5.0\ref\Matriz 3.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\obj\Debug\net5.0\Matriz 3.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\obj\Debug\net5.0\Matriz 3.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 3\Matriz 3\obj\Debug\net5.0\Matriz 3.csprojAssemblyReference.cache

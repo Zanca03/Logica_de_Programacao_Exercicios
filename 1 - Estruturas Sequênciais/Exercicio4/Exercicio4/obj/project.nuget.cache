@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TheDYfS/KIhkhwtTa6oY+jpKWyMmpAENvZPhftTbxAxlbD2TYDP76vyqymJ/Jtiy/TQTYFmic24AzBc4nm86EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Curso C#\\Exercícios Scripts\\Lógica e Algoritmo\\Estruturas Sequênciais\\Exercicio4\\Exercicio4\\Exercicio4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

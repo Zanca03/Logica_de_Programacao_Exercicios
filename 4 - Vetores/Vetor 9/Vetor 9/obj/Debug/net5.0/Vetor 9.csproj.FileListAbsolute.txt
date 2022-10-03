@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\bin\Debug\net5.0\Vetor 9.exe
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\bin\Debug\net5.0\Vetor 9.deps.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\bin\Debug\net5.0\Vetor 9.runtimeconfig.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\bin\Debug\net5.0\Vetor 9.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\bin\Debug\net5.0\Vetor 9.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\bin\Debug\net5.0\ref\Vetor 9.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\bin\Debug\net5.0\Vetor 9.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\obj\Debug\net5.0\Vetor 9.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\obj\Debug\net5.0\Vetor 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\obj\Debug\net5.0\Vetor 9.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\obj\Debug\net5.0\Vetor 9.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\obj\Debug\net5.0\Vetor 9.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\obj\Debug\net5.0\Vetor 9.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\obj\Debug\net5.0\ref\Vetor 9.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\obj\Debug\net5.0\Vetor 9.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 9\Vetor 9\obj\Debug\net5.0\Vetor 9.genruntimeconfig.cache

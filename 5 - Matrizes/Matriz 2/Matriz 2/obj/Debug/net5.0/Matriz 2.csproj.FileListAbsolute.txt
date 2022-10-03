@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\bin\Debug\net5.0\Matriz 2.exe
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\bin\Debug\net5.0\Matriz 2.deps.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\bin\Debug\net5.0\Matriz 2.runtimeconfig.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\bin\Debug\net5.0\Matriz 2.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\bin\Debug\net5.0\Matriz 2.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\bin\Debug\net5.0\ref\Matriz 2.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\bin\Debug\net5.0\Matriz 2.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\obj\Debug\net5.0\Matriz 2.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\obj\Debug\net5.0\Matriz 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\obj\Debug\net5.0\Matriz 2.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\obj\Debug\net5.0\Matriz 2.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\obj\Debug\net5.0\Matriz 2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\obj\Debug\net5.0\Matriz 2.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\obj\Debug\net5.0\ref\Matriz 2.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\obj\Debug\net5.0\Matriz 2.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\5 - Matrizes\Matriz 2\Matriz 2\obj\Debug\net5.0\Matriz 2.genruntimeconfig.cache

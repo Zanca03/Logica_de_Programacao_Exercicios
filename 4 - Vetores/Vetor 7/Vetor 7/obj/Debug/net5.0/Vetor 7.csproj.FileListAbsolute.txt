@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\bin\Debug\net5.0\Vetor 7.exe
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\bin\Debug\net5.0\Vetor 7.deps.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\bin\Debug\net5.0\Vetor 7.runtimeconfig.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\bin\Debug\net5.0\Vetor 7.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\bin\Debug\net5.0\Vetor 7.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\bin\Debug\net5.0\ref\Vetor 7.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\bin\Debug\net5.0\Vetor 7.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\obj\Debug\net5.0\Vetor 7.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\obj\Debug\net5.0\Vetor 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\obj\Debug\net5.0\Vetor 7.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\obj\Debug\net5.0\Vetor 7.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\obj\Debug\net5.0\Vetor 7.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\obj\Debug\net5.0\Vetor 7.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\obj\Debug\net5.0\ref\Vetor 7.dll
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\obj\Debug\net5.0\Vetor 7.pdb
+C:\Users\DELL\Desktop\Curso C#\Exercícios Scripts\Lógica e Algoritmo\4 - Vetores\Vetor 7\Vetor 7\obj\Debug\net5.0\Vetor 7.genruntimeconfig.cache
